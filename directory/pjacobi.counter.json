@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "id": "pjacobi.counter",
+  "type": "plugin",
+  "name": "Counter",
+  "status": "preview",
+  "tagline": "What Counter does, in one line.",
+  "chips": [
+    "Wabifi desktop",
+    "what it does"
+  ],
+  "description": "What Counter does, what it reads and what it sends.",
+  "publisher": {
+    "name": "pjacobi"
+  },
+  "license": "MIT",
+  "platforms": {
+    "desktop": true,
+    "phone": "none"
+  }
+}
