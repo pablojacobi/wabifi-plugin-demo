@@ -1,6 +1,10 @@
 {
   "id": "pjacobi.counter",
   "name": "Counter",
+  "description": "A counter you can raise and reset: a small example of a Wabifi plugin.",
   "apiVersion": 1,
-  "version": "0.1.6"
+  "version": "0.1.7",
+  "discovery": {
+    "category": "examples"
+  }
 }
