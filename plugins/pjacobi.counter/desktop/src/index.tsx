@@ -18,6 +18,9 @@ export function apply(ctx: Context) {
           <button type="button" onClick={() => setCount(count + 1)}>
             Clicked {count} times
           </button>
+          <button type="button" onClick={() => setCount(0)} disabled={count === 0}>
+            Reset
+          </button>
         </section>
       );
     },
